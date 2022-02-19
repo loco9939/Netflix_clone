@@ -5,7 +5,7 @@ body {
 div {
     box-sizing: border-box;
 }
-.container1 {
+.first-window {
     padding: 40px;
     padding-top: 10px;
     background-image: url(img/netflix1.jpg);
@@ -70,4 +70,14 @@ p {
 }
 i {
     color: white;
+}
+.bot {
+    width: 100%;
+    display: flex;
+}
+.foot {
+    margin: 0;
+}
+.footer {
+    justify-content: space-between;
 }
